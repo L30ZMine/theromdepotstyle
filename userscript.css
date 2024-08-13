@@ -1,0 +1,8 @@
+#browser-content > div:nth-child(3) > div > div > div > div {
+    border-bottom: 1px solid #474747;
+    padding-left: 10px;
+}
+
+#content {
+    max-width: none;
+}
